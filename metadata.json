@@ -1,0 +1,6 @@
+{
+  "name": "AEROBRITANNIA",
+  "description": "Britain's award-winning premium flight search platform. Discover, compare and plan commercial flights operated by world-class airlines serving the United Kingdom with seamless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
